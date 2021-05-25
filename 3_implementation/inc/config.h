@@ -5,7 +5,6 @@
     #include<malloc.h>
     #include<string.h>
     #include<stdlib.h>
-    #include <conio.h>
     #include <math.h>
     /**
      * @brief structi=ure to store the record of the customer
