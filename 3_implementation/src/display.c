@@ -16,7 +16,7 @@ void display(FILE * fp)
         printf("\n\n\t\tAdhar Number : %s",user_data.adhar_number);
         printf("\n\n\t\tPAN number:%s",user_data.PAN_number);
         printf("\n\n\t\tLoan Amount:%ld",user_data.loan_amount);
-        printf("\n\n\t\tCibil Score:%ld",user_data.cibil_score);
+        printf("\n\n\t\tCibil Score:%d",user_data.cibil_score);
     }
     getc(stdin);
     return ;
