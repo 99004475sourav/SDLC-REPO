@@ -6,7 +6,7 @@ int Before_tenure(double amount,double time,double month,char c)
     if(c == 'y' || c== 'Y')
     {
         whole = (amount*(12*time - month))/(12*time) + amount/(12*time);
-        printf("\n\n\t\tYou will have to pay Rs%lf in the %dth month to clear your loan.",ceil(whole),(int)month);
+        printf("\n\n\t\tYou will have to pay Rs%lf in the %dth month to clear your loan.",(whole),(int)month);
         return 1 ;
     }
     else{
