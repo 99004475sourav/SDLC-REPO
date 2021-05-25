@@ -3,9 +3,9 @@
 
 ![Poster](https://github.com/GENESIS2021Q1/sdlc-team-17/blob/main/2_Design/Poster.png)
 
-Build | Cppcheck | Unity | [Git Inspector](https://99003612.github.io/SDLC_LTTS/result)| Code Quality Score 
-------|----------|-------|-------------------------------------------------------------|--------------------
-
+Build | Code Quality | Cppcheck | Unity | [Git Inspector](https://99003612.github.io/SDLC_LTTS/result)|
+------|--------------|----------|-------|----------------------------------------
+|[![C/C++ CI - Build Status](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/build.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/build.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/staticckeck.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/staticckeck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/dynamic.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/dynamic.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/staticckeck.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/staticckeck.yml)|[![Unit Testing - Unity](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/unity.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99004475sourav/SDLC-REPO/actions/workflows/gitinspector.yml)
 
 
 # Folder Structure
